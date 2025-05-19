@@ -1,6 +1,6 @@
 # Portfolio
 
-Landing page website for a fictional food delivery company  called **"Portfolio"** build using modern **HTML5** , **CSS3** , **REACTJS**  and **JAVASCRIPT**.
+Landing page website for a fictional Profile  called **"Portfolio"** build using modern **HTML5** , **CSS3** , **REACTJS**  and **JAVASCRIPT**.
 ![Live project](project.png)
 
 *This project is a part of project*
